@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>DBMS Project</title>
+    <link rel="stylesheet" href="Main.css">
+    <link rel ="stylesheet" href="Main.js">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body
+        {
+            background-color: black;
+        }
+    </style>    
+</head>
+<body>
+    <div class = "Title">
+        <div class="logo-margin">
+            <img src="taj-logo-zip-file/png/logo-black.png" class="logo-picture">
+        </div>
+        <h1 class = "title-h">Hotel Management System</h1>
+        <div class="customer-margin">
+            <button class="customer-button" onclick="location.href='Main.html'">Customer</button>
+        </div>
+        <div class="manager-margin">
+            <button class="manager-button" onclick="location.href='Main1.html'">Manager</button>
+        </div>
+    </div>
+    <hr>
+    <div class = "Procedure-1">
+        <h2 class="procedure1-h">Customer Details :- </h2>
+    </div>
+    <div>
+        <div class="topic1">
+            <p class="topic1-name">FName :-</p>
+            <input type="text" placeholder="FName" class="topic1-input" id = "1-fname">
+        </div>
+        <div class="topic2">    
+            <p class="topic2-name">LName :-</p>
+            <input type="text" placeholder = "LName" class="topic2-input", id = "1-lname">
+        </div>
+        <div class="topic3">
+            <p class="topic3-name">Sex :-</p>
+            <input type="text" placeholder = "Sex" class="topic3-input" id="1-sex">
+        </div>
+        <div class="topic4">
+            <p class="topic4-name">Age :-</p>
+            <input type="text" placeholder = "Age" class="topic4-input" id="1-age">
+        </div>
+        <div class="topic5">
+            <p class="topic5-name">Verification Type :-</p>
+            <input type="text" placeholder = "Verification Type" class="topic5-input" id="1-vtype">
+        </div>
+        <div class="topic6">
+            <p class="topic6-name">Verification Number :-</p>
+            <input type="text" placeholder = "Verification Number" class="topic6-input" id="1-vnumber">
+        </div>
+        <div class="topic7">
+            <p class="topic7-name">Phone Number 1 :-</p>
+            <input type="text" placeholder = "Phone Number 1" class="topic7-input" id="1-phno1">
+        </div>
+        <div class="topic8">
+            <p class="topic8-name">Phone Number 2 :-</p>
+            <input type="text" placeholder = "Phone Number 2" class="topic8-input" id="1-Pphno2">
+        </div>
+        <div class="topic9">
+            <p class="topic9-name">Room Number :-</p>
+            <input type="text" placeholder = "Room Number" class="topic9-input" id="1-roomno">
+        </div>
+        <div class="topic10">
+            <p class="topic10-name">Branch Name :-</p>
+            <input type="text" placeholder = "Branch Name" class="topic10-input" id="1-branchname">
+        </div>
+        <div class="button1">
+            <button class="button1-enter" id="1-button" onclick="function1()">ENTER</button>
+        </div>
+    </div>
+    <hr style="margin-top:50px; border:10px solid white">
+    <div class = "Procedure-1">
+        <h2 class="procedure1-h">Ratings = </h2>
+    </div>
+    <div>
+        <div class="topic1">
+            <p class="topic1-name">CID :-</p>
+            <input type="text" placeholder="CID" class="topic1-input" id="2-cid">
+        </div>
+        <div class="topic2">
+            <p class="topic2-name">RID :-</p>
+            <input type="text" placeholder = "RID" class="topic2-input" id="2-rid">
+        </div>
+        <div class="topic3">
+            <p class="topic3-name">Ratings(Out of 5) :-</p>
+            <input type="text" placeholder = "Rate" class="topic3-input" id="2-rating">
+        </div>
+        <div class="button1">
+            <button class="button1-enter" id="2-button">ENTER</button>
+        </div>
+    </div>
+    <hr style="margin-top:50px; border:10px solid white">
+    
+    <div class = "Procedure-1">
+        <h2 class="procedure1-h">Room Price = </h2>
+    </div>
+    <div>
+        <div class="topic1">
+            <p class="topic1-name">BID :-</p>
+            <input type="text" placeholder="BID" class="topic1-input" id="4-bid">
+        </div>
+        <div class="topic2">
+            <p class="topic2-name">Type of Room :-</p>
+            <input type="text" placeholder = "Type of Room" class="topic2-input" id="4-typeroom">
+        </div>
+        <div class="topic3">
+            <p class="topic3-name">Number of Guests :-</p>
+            <input type="text" placeholder = "Number of Guests" class="topic3-input" id="4-noofguests">
+        </div>
+        <div class="topic4">
+            <p class="topic4-name">Cancellation :-</p>
+            <input type="text" placeholder = "Yes/No" class="topic4-input" id="4-cancellation">
+        </div>
+        <div class="button1">
+            <button class="button1-enter" id="4-button" onclick="function3()">ENTER</button>
+        </div>
+        <div>
+            <div class="output1">
+                <p class="output1-name">Room Number :-</p>
+                <input type="text" placeholder = "Room Number" class="output1-input" id="4-roomno">
+            </div>
+            <div class="output2">
+                <p class="output2-name">Price of the room :-</p>
+                <input type="text" placeholder = "Price of the room" class="output2-input" id="4-price">
+            </div>
+        </div>
+    </div>
+    <hr style="margin-top:50px; border:10px solid white">
+</body>
+</html>

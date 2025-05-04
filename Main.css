@@ -1,0 +1,528 @@
+.logo-margin
+{
+    width: 60px;
+    height: 60px;
+}
+.logo-picture
+{
+    width: 100px;
+    height: 100px;
+}
+.Title
+{
+    width: 100px;
+    height: 100px;
+}
+.title-h
+{
+    width: 600px;
+    color: white;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-left: 570px;
+    margin-top: -50px;
+}
+.procedure-1
+{
+    width: 500px;
+    height: 100px;
+}
+.procedure1-h
+{
+    width: 500px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 170px;
+}
+.topic1
+{
+    width: 400px;
+    height: 100px;
+}
+.topic1-name
+{
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 200px;
+}
+.topic1-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 200px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.topic2
+{
+    width: 400px;
+    height: 100px;
+}
+.topic2-name
+{
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 600px;
+    margin-top: -105px;
+}
+.topic2-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 600px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.topic3
+{
+    width: 400px;
+    height: 100px;
+}
+.topic3-name
+{
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 1000px;
+    margin-top: -105px;
+}
+.topic3-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 1000px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.topic4
+{
+    width: 400px;
+    height: 100px;
+    padding-top: 50px;
+}
+.topic4-name
+{
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 200px;
+}
+.topic4-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 200px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.topic5
+{
+    width: 400px;
+    height: 100px;
+    padding-top: 20px;
+}
+.topic5-name
+{
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 600px;
+    margin-top: -105px;
+}
+.topic5-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 600px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.topic6
+{
+    width: 400px;
+    height: 100px;
+    padding-top: -220px;
+}
+.topic6-name
+{
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 1000px;
+    margin-top: -205px;
+}
+.topic6-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 1000px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.button1
+{
+    width: 50px;
+    height: 100px;
+}
+.button1-enter
+{
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    border-color: rgb(254, 40, 176);
+    font-size: 20px;
+    margin-left: 640px;
+    margin-top: 50px;
+    padding-left: 10px;
+    border-width: 4px;
+    transition: opacity 0.5s;
+}
+.button1-enter:active
+{
+    opacity: 0.5;
+}
+.topic7
+{
+    width: 400px;
+    height: 100px;
+    padding-top: 30px;
+}
+.topic7-name
+{
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 200px;
+}
+.topic7-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 200px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.topic8
+{
+    width: 400px;
+    height: 100px;
+    padding-top: 30px;
+}
+.topic8-name
+{
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 600px;
+    margin-top: -105px;
+}
+.topic8-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 600px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.topic9
+{
+    width: 400px;
+    height: 100px;
+    padding-top: 20px;
+    margin-top: -120px;
+}
+.topic9-name
+{
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 1000px;
+    margin-top: -105px;
+}
+.topic9-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 1000px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.topic10
+{
+    width: 400px;
+    height: 100px;
+    padding-top: 20px;
+    margin-top: -70px;
+}
+.topic10-name
+{
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 200px;
+}
+.topic10-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 200px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.topic11
+{
+    width: 400px;
+    height: 100px;
+    padding-top: 20px;
+}
+.topic11-name
+{
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 600px;
+    margin-top: -105px;
+}
+.topic11-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 600px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.output1
+{
+    width: 500px;
+    height: 100px;
+    padding-top: 20px;
+}
+.output1-name
+{
+    width: 400px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 200px;
+}
+.output1-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 250px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 200px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.output2
+{
+    width: 400px;
+    height: 100px;
+    padding-top: 20px;
+}
+.output2-name
+{
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 600px;
+    margin-top: -105px;
+}
+.output2-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 250px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 600px;
+    padding-left: 30px;
+    border-width: 5px;
+    margin-top: 5px;
+}
+.output3
+{
+    width: 400px;
+    height: 100px;
+    padding-top: 20px;
+    margin-top: -125px;
+}
+.output3-name
+{
+    width: 300px;
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding-left: 1000px;
+    margin-top: -105px;
+}
+.output3-input
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+    font-size: 20px;
+    margin-left: 1000px;
+    padding-left: 30px;
+    border-width: 5px;
+}
+.customer-margin
+{
+    width: 100px;
+    margin-top: -60px;
+}
+.customer-button
+{
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    color:white;
+    border-color: rgb(254, 40, 178);
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 3px;
+    font-family: Roboto;
+    font-size: 15px;
+    margin-left: 1100px;
+    transition: opacity 0.5s;
+}
+.customer-button:active
+{
+    opacity: 0.5;
+}
+.manager-margin
+{
+    width: 100px;
+    margin-top: -40px;
+}
+.manager-button
+{
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    color:white;
+    border-color: rgb(254, 40, 178);
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 3px;
+    font-family: Roboto;
+    font-size: 15px;
+    margin-left: 1250px;
+    transition: opacity 0.5s;
+}
+.manager-button:active
+{
+    opacity: 0.5;
+}
+.text-margin
+{
+    width: 100px;
+}
+.text-below-button
+{
+    width: 400px;
+    height: 50px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: Roboto;
+    margin-left: 620px;
+    color: white;
+}
